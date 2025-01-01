@@ -7,3 +7,6 @@
 [submodule "RequestHandler"]
 	path = RequestHandler
 	url = https://github.com/bajajku/RequestHandler.git
+[submodule "vercel_frontend"]
+	path = vercel_frontend
+	url = https://github.com/bajajku/vercel_frontend.git
