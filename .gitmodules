@@ -1,0 +1,9 @@
+[submodule "vercel_clone"]
+	path = vercel_clone
+	url = https://github.com/bajajku/vercel_clone.git
+[submodule "vercel_clone_deploy"]
+	path = vercel_clone_deploy
+	url = https://github.com/bajajku/vercel_clone_deploy.git
+[submodule "RequestHandler"]
+	path = RequestHandler
+	url = https://github.com/bajajku/RequestHandler.git
